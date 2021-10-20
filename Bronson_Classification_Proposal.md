@@ -20,7 +20,7 @@ The data I will use for this project contains 15,000 rows, each representing an 
 
 ## Tools:
 
-For this project, I intend to use python and packages including pandas and numpy to perform exploratory data analysis. I will use packages such as scikit learn, seaborn, and matplotlib in order to visualize the data and create a classification model. I may also use Tableau for visualization and SQLite for data manipulation and storage.
+For this project, I intend to use python and packages including pandas and numpy to perform exploratory data analysis. I will use packages such as scikit-learn, seaborn, and matplotlib in order to visualize the data and create a classification model. I may also use Tableau for visualization and SQLite for data manipulation and storage.
 
 ## MVP:
 
