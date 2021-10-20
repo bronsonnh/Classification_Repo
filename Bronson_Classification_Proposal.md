@@ -25,11 +25,3 @@ For this project, I intend to use python and packages including pandas and numpy
 ## MVP:
 
 The Minimum Viable Product for this task would be a baseline classification model, perhaps a KNN model, that can predict whether employees are likely to leave the company by determining their classification. This will be determined based on employees who are still at the company, but would fall in the category of “left” based on features present in the dataset. Additionally, I will provide recommendations on the key qualities of employees that may resign as well as interventions to target these employees specifically. 
-
-## Tools:
-
-For this project, I intend to use python and packages including pandas and numpy to perform exploratory data analysis. I will use packages such as scikit learn, seaborn, and matplotlib in order to visualize the data and create a classification model. I may also use Tableau for visualization and SQLite for data manipulation and storage.
-
-## MVP:
-
-The Minimum Viable Product for this task would be a baseline classification model, perhaps a KNN model, that can predict whether employees are likely to leave the company by classifying them. This will be determined based on employees who are still at the company, but would fall in the category of “left” based on features present in the dataset. Additionally, I will provide recommendations on the key qualities of employees that may resign as well as interventions to target these employees specifically. 
