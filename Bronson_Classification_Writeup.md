@@ -3,13 +3,18 @@
 By Nicholas Bronson
 
 ## Abstract:
+
+This project uses a classification model to analyze and classify employees in a set of HR data for a client in the logistics sector. The goal is to create a model that will put employees in the class of “likely to leave” or “likely to stay.” After rigorous selection, I selected use of a random forest in conjunction with a KNN model due to their ability to predict employee class with a high level of recall and accuracy. I also investigated and determined top factors that were related to employee attrition and created recommendations regarding intervention strategies based on this. 
+
+## Design:
+
 A prospective client, MTS Shipping, a mid-sized player in the logistics sector, approached me looking for a data-oriented solution for predicting employee attrition. In the face of what the media has labeled “the great resignation,” my client has suffered higher rates of attrition than normal and provided a dataset containing data for 15000 current and former employees of the company. They are looking to understand the answers to several key questions: 
 
 1) Who are the employees that are most likely to resign, and what are the qualities of these employees?
 2) What factors have the strongest influence on whether employees will stay or leave?
 3) What might appropriate and effective interventions look like, and what aspects might they target?
 
-I approached this problem using classification modeling to create a model that will put employees in the class of “likely to leave” or “likely to stay.” After rigorous selection, I selected use of a random forest in conjunction with a KNN model due to their ability to predict employee class with a high level of recall and accuracy. I also investigated and determined top factors that were related to employee attrition and created recommendations regarding intervention strategies based on this. 
+This project aims to answer these questions through use of classification models to determine groups of employees that are most likely to leave.
 
 ## Data:
 
