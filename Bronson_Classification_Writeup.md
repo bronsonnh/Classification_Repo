@@ -2,7 +2,7 @@
 
 By Nicholas Bronson
 
-##Abstract:
+## Abstract:
 A prospective client, MTS Shipping, a mid-sized player in the logistics sector, approached me looking for a data-oriented solution for predicting employee attrition. In the face of what the media has labeled “the great resignation,” my client has suffered higher rates of attrition than normal and provided a dataset containing data for 15000 current and former employees of the company. They are looking to understand the answers to several key questions: 
 
 1) Who are the employees that are most likely to resign, and what are the qualities of these employees?
