@@ -24,16 +24,16 @@ As a next step, I performed the K-Nearest Neighbors classification model which p
 
 The selected random forest’s cross validated performance is as follows: 
 
-Recall: 97.3% /n
-Accuracy: 98.2% /n
-Precision: 95.6% /n
+Recall: 97.3%,
+Accuracy: 98.2%,
+Precision: 95.6%,
 F1: 96.4%  
 
 The selected KNN model’s cross validated performance is as follows: 
 
-Recall: 92.7% /n
-Accuracy: 93.9% /n
-Precision: 83.5% /n
+Recall: 92.7%,
+Accuracy: 93.9%,
+Precision: 83.5%,
 F1: 87.8% 
 
 ## Tools:
