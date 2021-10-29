@@ -14,7 +14,7 @@ A prospective client, MTS Shipping, a mid-sized player in the logistics sector, 
 2) What factors have the strongest influence on whether employees will stay or leave?
 3) What might appropriate and effective interventions look like, and what aspects might they target?
 
-This project aims to answer these questions through use of classification models to determine groups of employees that are most likely to leave.
+This project aims to answer these questions through use of classification models to determine groups of employees that are most likely to leave. It also seeks to determine areas in which interventions for employees who are considering leaving would be most impactful.
 
 ## Data:
 
