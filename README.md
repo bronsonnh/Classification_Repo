@@ -9,5 +9,5 @@ For this project, I used a dataset containing roughly 15,000 employees and featu
 Please view the following for additional details:
 
 * A [slide deck](https://github.com/bronsonnh/Classifiying-Employes-by-Attrition-Likelihood/blob/main/Slide%20Deck%20-%20Classifying%20Employee%20Attrition%20.pptx.pdf) used to present information on this project 
-* A [jupyter notebook](https://github.com/bronsonnh/Classifiying-Employes-by-Attrition-Likelihood/blob/main/Bronson_Classification_Notebook.ipynb) where you can see the techniques tried and used  
+* A [jupyter notebook](https://github.com/bronsonnh/Classifiying-Employes-by-Attrition-Likelihood/blob/main/Notebook_Classifying_Attrition.ipynb) where you can see the techniques tried and used  
 * A [written report](https://github.com/bronsonnh/Classifiying-Employes-by-Attrition-Likelihood/blob/main/Bronson_Classification_Writeup.md) outlining the scope and step-by-step process  
